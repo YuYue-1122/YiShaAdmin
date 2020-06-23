@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\YiSha.Business",
+    "\\YiSha.Business\\YiSha.Business",
+    "\\YiSha.Business\\YiSha.Business\\SystemManage",
+    "\\YiSha.Business\\YiSha.Service",
+    "\\YiSha.Business\\YiSha.Service\\SystemManage",
+    "\\YiSha.Data",
+    "\\YiSha.Data\\YiSha.Data.Repository",
+    "\\YiSha.Util",
+    "\\YiSha.Web"
+  ],
+  "SelectedNode": "\\YiSha.Business\\YiSha.Service\\SystemManage\\AutoJobService.cs",
+  "PreviewInSolutionExplorer": false
+}
