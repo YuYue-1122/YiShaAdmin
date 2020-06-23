@@ -10,7 +10,7 @@ namespace YiSha.Admin.Web.Areas.DemoManage.Controllers
     public class FormController : Controller
     {
         public IActionResult Button()
-        {
+        { 
             return View();
         }
 
